@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 09de511a23c99824abeda12dfb0db6f5
+  - enabled: 1
+    path: Assets/Scenes/Block_M1_Mouse2D.unity
+    guid: 6dcdb6a9b9c4e9d4f90e566c50ef1d77
+  - enabled: 1
+    path: Assets/Scenes/Block_M2_Key2D.unity
+    guid: b1dea2513704af843a2612086fedbc6a
+  - enabled: 1
+    path: Assets/Scenes/Block_M3_TriggerVR.unity
+    guid: 97ea22b94826bb94595b40e6dc26e10a
+  - enabled: 1
+    path: Assets/Scenes/BlockTransition.unity
+    guid: ef72dca1182222840ae08ac7deb30413
+  - enabled: 1
+    path: Assets/Scenes/SessionDone.unity
+    guid: 75ea4cdedf683d948a90ee7abce8b064
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 13301c3db574e374a9c713c2cd2cf948, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 57434fde7fec38741a59a8489d933584, type: 2}
+  m_UseUCBPForAssetBundles: 0
